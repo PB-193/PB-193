@@ -1,5 +1,5 @@
 <h1 align="center">Hello I'm PB, also known as 193</h1>
-<h3 align="center">In a few years, he will become a top-notch engineer. That's what I pledge now.</h3>
+<h3 align="center">In a few years, I will become a top-notch engineer. That's what I pledge now.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pb-193&label=Profile%20views&color=0e75b6&style=flat" alt="pb-193" /> </p>
 
