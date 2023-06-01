@@ -2,6 +2,8 @@
 <h3 align="center">In a few years, I will become a top-notch engineer. That's what I pledge now.</h3>
 
 - 🌱 I’m currently learning **Ruby on Rails**
+- Programming is very difficult, but we will not be frustrated and will keep moving forward!**
+- Often we have to understand many words and phrases, especially when we have to understand many words and phrases. We always hope to overcome this.**
 
 <p align="left">
 </p>
