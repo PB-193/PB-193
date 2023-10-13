@@ -1,6 +1,7 @@
 <h1 align="center">Hello I'm PB, also known as 193</h1>
 <h3 align="center">In a few years, I will become a top-notch engineer. That's what I pledge now.<br>Programming is very difficult, but we will not be frustrated and will keep moving forward! <br> Often we have to understand many words and phrases, especially when we have to understand many words and phrases. We always hope to overcome this!</h3>
 
+- 🌱 I’m currently learning **Go**
 - 🌱 I’m currently learning **Ruby on Rails**
 - 🌱 I’m currently learning **AWS**
 
