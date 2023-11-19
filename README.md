@@ -6,7 +6,6 @@ And I am still in the process of climbing a big wall everyday through trial and 
 I will continue to struggle to become a top-notch systems engineer in a few years!</h3>
 
 - 🌱 I’m currently learning **Golang**
-
 <p align="left">
 </p>
 
