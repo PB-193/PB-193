@@ -21,5 +21,4 @@ I will continue to struggle to become a top-notch systems engineer in a few year
 <p><img align="left" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=pb-193&theme=github"></p>
 <br>
 
-<br>
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=PB-193&bg_color=fffff0&color=708090&line=24292e&point=24292e&area=true&hide_border=true)](https://github.com/PB-193/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=PB-193&bg_color=fffff0&color=708090&line=24292e&point=24292e&area=true&hide_border=true&theme=github-compact)](https://github.com/PB-193/github-readme-activity-graph)
