@@ -12,16 +12,14 @@ I will continue to struggle to become a top-notch systems engineer in a few year
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=go,docker,discord,github,aws" />
+    <img src="https://skillicons.dev/icons?i=go,docker,discord,github,aws" alt="Languages and tools" />
   </a>
 </p>
 <br>
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=PB-193)](https://git.io/streak-stats)
-
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=PB-193&bg_color=00000000&color=8b949e&line=26a641&point=8b949e&area=true&hide_border=true&title_color=8b949e&border_color=8b949e)](https://github.com/PB-193/github-readme-activity-graph)
+[![GitHub Streak](https://streak-stats.demolab.com?user=PB-193)](https://git.io/streak-stats)
 
 <br>
-<p><img align="left" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=pb-193&theme=github"></p>
+<p><img align="left" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=pb-193&theme=github" alt="PB-193 profile details"></p>
 
 <br>
